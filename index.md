@@ -1,6 +1,10 @@
 # Manoa Marketplace
 
+[GitHub Organization](https://github.com/manoamarketplace)
+
 [See our Team Contract here.](https://docs.google.com/document/d/1ZQ-Apqbr8ef9pxsUrwbN6swEVVe1EIwGtawZnpmVP_w/edit?usp=sharing)
+
+Deployment
 
 ### Overview:
 Provide a safe and simple way for students to buy and sell items on campus, giving students a chance to recycle and reuse campus-specific goods.
@@ -40,3 +44,12 @@ Provide a safe and simple way for students to buy and sell items on campus, givi
 <img src="photos/etsy.png">
 
 <img src="photos/facebook.png">
+
+
+
+
+### Milestone 1: Mockup Pages and Collections Development
+
+The goal of Milestone 1 is to create the basic layout and mockup pages and collections. The structure and design of the website are also modified here.
+
+Milestone 1 was managed using [Manoa Marketplace GitHub Project Board M1:](https://github.com/orgs/manoamarketplace/projects/1)
