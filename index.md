@@ -55,5 +55,5 @@ The goal of Milestone 1 is to create the basic layout and mockup pages and colle
 Milestone 1 was managed using [Manoa Marketplace GitHub Project Board M1:](https://github.com/orgs/manoamarketplace/projects/1)
 
 ### Team
-Jazmin Lor, Alyssa Greenwell, Russ Flores, Jing Zheng
+Manoa Marketplace is built by Jazmin Lor, Alyssa Greenwell, Russ Flores, Jing Zheng
 
