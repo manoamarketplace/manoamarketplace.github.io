@@ -37,7 +37,7 @@ Provide a safe and simple way for students to buy and sell items on campus, givi
   * This page allows users to notify admins and report users in the case of post scams, explicit users, and bad behavior.
 
 
-### Mockup Pages Screenshots:
+### Reference Pages Screenshots:
 
 <img src="photos/ebay.png">
 
