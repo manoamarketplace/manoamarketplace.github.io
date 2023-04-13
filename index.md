@@ -4,7 +4,7 @@
 
 [See our Team Contract here.](https://docs.google.com/document/d/1ZQ-Apqbr8ef9pxsUrwbN6swEVVe1EIwGtawZnpmVP_w/edit?usp=sharing)
 
-[Deployed Application] (https://164.92.164.105)
+[Deployed Application](https://164.92.164.105)
 
 ### Overview:
 Provide a safe and simple way for students to buy and sell items on campus, giving students a chance to recycle and reuse campus-specific goods.
