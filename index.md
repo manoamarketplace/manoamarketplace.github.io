@@ -4,7 +4,7 @@
 
 [See our Team Contract here.](https://docs.google.com/document/d/1ZQ-Apqbr8ef9pxsUrwbN6swEVVe1EIwGtawZnpmVP_w/edit?usp=sharing)
 
-Deployment
+[Deployed Application] (https://164.92.164.105)
 
 ### Overview:
 Provide a safe and simple way for students to buy and sell items on campus, giving students a chance to recycle and reuse campus-specific goods.
@@ -37,22 +37,30 @@ Provide a safe and simple way for students to buy and sell items on campus, givi
   * This page allows users to notify admins and report users in the case of post scams, explicit users, and bad behavior.
 
 
-### Reference Pages Screenshots:
+### Progress Pages Screenshots:
 
-<img src="photos/ebay.png">
+<img src="photos/landing-page-m1.png">
 
-<img src="photos/etsy.png">
+<img src="photos/registration-page-m1.png">
 
-<img src="photos/facebook.png">
+<img src="photos/home-page-m1.png">
 
+<img src="photos/add-item-page-m1.png">
 
-
+<img src="photos/categories-page-m1.png">
 
 ### Milestone 1: Mockup Pages and Collections Development
 
 The goal of Milestone 1 is to create the basic layout and mockup pages and collections. The structure and design of the website are also modified here.
 
 Milestone 1 was managed using [Manoa Marketplace GitHub Project Board M1:](https://github.com/orgs/manoamarketplace/projects/1)
+
+### Milestone 2: Provide functionality e.g. clickable links, allow users to add items, register accounts, etc.
+
+The goal of Milestone 2 is to provide functionality so that users are able to utilize the website. For example, in this stage, they'll be able to add and edit their respective listings as well as view the listings of others. They'll also be able to make offers on items that they are interested in purchasing.
+
+Milestone 2 was managed using [Manoa Marketplace GitHub Project Board M2:](https://github.com/orgs/manoamarketplace/projects/3)
+
 
 ### Team
 Manoa Marketplace is built by Jazmin Lor, Alyssa Greenwell, Russ Flores, Jing Zheng
