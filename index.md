@@ -4,7 +4,7 @@
 
 [Team Contract](https://docs.google.com/document/d/1ZQ-Apqbr8ef9pxsUrwbN6swEVVe1EIwGtawZnpmVP_w/edit?usp=sharing)
 
-[Deployed Application](http://164.92.164.105/)
+[Deployed Application](https://manoa-marketplace.site/)
 
 ### Overview:
 Provide a safe and simple way for students to buy and sell items on campus, giving students a chance to recycle and reuse campus-specific goods.
