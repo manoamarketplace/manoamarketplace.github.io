@@ -7,7 +7,16 @@
 [Deployed Application](https://manoa-marketplace.site/)
 
 ### Overview:
-Provide a safe and simple way for students to buy and sell items on campus, giving students a chance to recycle and reuse campus-specific goods.
+
+Manoa Marketplace is a web application that provides a safe and simple way for students to buy and sell items on campus, giving students a chance to recycle and reuse campus-specific goods. Tools used in the web application are listed below.
+
+* [Meteor](https://www.meteor.com/) for Javascript-based implementation of client and server code.
+* [React](https://reactjs.org/) for component-based UI implementation and routing.
+* [React Bootstrap](https://react-bootstrap.github.io/) CSS Framework for UI design.
+* [Uniforms](https://uniforms.tools/) for React and Semantic UI-based form design and display.
+
+Manoa Marketplace allows UH students, faculty, or staff to buy and sell items. There is no anonymity: buyers and sellers connect through their UH credentials.
+Transactions are expected to occur on-campus. Because buyers and sellers are from UHM, the goods and services will be relevant to UH students.
 
 ### Project goals:
 
