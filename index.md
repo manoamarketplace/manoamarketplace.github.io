@@ -41,25 +41,18 @@ Transactions are expected to occur on-campus. Because buyers and sellers are fro
 
 * Items listed page
   * The items listed page is where all listed items in the following category are shown.
+ 
+ ![](photos/categories.jpg)
+ 
 * Create item page
   * The list item page is where the students can post items for sale. Items can be categorized, have a starting price point, and will include the date listed.
+
+![](photos/additem.jpg)
+
 * Make offer on item page
   * Students are allowed to make offers on specific items, almost like a bid.
 * Notify admin page
   * This page allows users to notify admins and report users in the case of post scams, explicit users, and bad behavior.
-
-
-### Progress Pages Screenshots:
-
-<img src="photos/landing-page-m1.png">
-
-<img src="photos/registration-page-m1.png">
-
-<img src="photos/home-page-m1.png">
-
-<img src="photos/add-item-page-m1.png">
-
-<img src="photos/categories-page-m1.png">
 
 ### Milestone 1: Mockup Pages and Collections Development
 
