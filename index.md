@@ -37,7 +37,7 @@ Transactions are expected to occur on-campus. Because buyers and sellers are fro
 * Categories page
   * The categories page is where users can filter and find specific categories to search for items.
 
-![](images/categories.jpg)
+![](photos/categories.jpg)
 
 * Items listed page
   * The items listed page is where all listed items in the following category are shown.
