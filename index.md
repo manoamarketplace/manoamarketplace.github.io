@@ -64,11 +64,11 @@ Transactions are expected to occur on-campus. Because buyers and sellers are fro
 * Notify admin page
   * This page allows users to notify admins and report users in the case of post scams, explicit users, and bad behavior.
 
-## Developer Guide
+### Developer Guide:
 
 This section provides information of interest to Meteor developers wishing to use this code base as a basis for their own development tasks.
 
-### Installation
+#### Installation
 
 First, [install Meteor](https://www.meteor.com/install).
 
@@ -88,7 +88,7 @@ $ meteor npm run start
 
 If all goes well, the application will appear at [http://localhost:3000](http://localhost:3000).
 
-### Application Design
+#### Application Design
 
 Manoa Marketplace is based upon [meteor-application-template-react](https://ics-software-engineering.github.io/meteor-application-template-react/) and [meteor-example-form-react](https://ics-software-engineering.github.io/meteor-example-form-react/). Please use the videos and documentation at those sites to better acquaint yourself with the basic application design and form processing in Maroa Marketplace.
 
