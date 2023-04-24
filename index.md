@@ -28,10 +28,20 @@ Transactions are expected to occur on-campus. Because buyers and sellers are fro
 ### Mockup pages:
 * Landing page
     * The landing page is the home page and the first page users will land on when they visit the top-level URL to the website.
+
+![](photos/landing.jpg)
+
 * Sign-in and sign-up page
   * The sign in and sign up page is where the students can create an account to search for goods and list goods for sale.
+
+![](photos/signin.jpg)
+![](photos/signup.jpg)
+
 * User home page
   * The user page is the page where the students will first see once logged in.
+
+![](photos/userhome.jpg)
+
 * Admin home page
   * The admin home page is where users with the “admin” role will have access. These could be UH Mānoa staff and faculty.
 * Categories page
@@ -42,7 +52,7 @@ Transactions are expected to occur on-campus. Because buyers and sellers are fro
 * Items listed page
   * The items listed page is where all listed items in the following category are shown.
  
- ![](photos/categories.jpg)
+ ![](photos/yourlistings.jpg)
  
 * Create item page
   * The list item page is where the students can post items for sale. Items can be categorized, have a starting price point, and will include the date listed.
