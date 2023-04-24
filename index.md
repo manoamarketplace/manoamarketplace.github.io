@@ -36,6 +36,9 @@ Transactions are expected to occur on-campus. Because buyers and sellers are fro
   * The admin home page is where users with the “admin” role will have access. These could be UH Mānoa staff and faculty.
 * Categories page
   * The categories page is where users can filter and find specific categories to search for items.
+
+![](images/categories.jpg)
+
 * Items listed page
   * The items listed page is where all listed items in the following category are shown.
 * Create item page
