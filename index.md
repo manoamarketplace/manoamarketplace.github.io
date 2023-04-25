@@ -59,6 +59,11 @@ Transactions are expected to occur on-campus. Because buyers and sellers are fro
 
 ![](photos/additem.jpg)
 
+* Sellers Directory page
+  * This page allows users to look at different sellers and their profile.
+
+![](photos/sellers.jpg)
+
 * Make offer on item page
   * Students are allowed to make offers on specific items, almost like a bid.
 * Notify admin page
