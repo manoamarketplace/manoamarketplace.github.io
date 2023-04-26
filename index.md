@@ -44,6 +44,8 @@ Transactions are expected to occur on-campus. Because buyers and sellers are fro
 
 * Admin home page
   * The admin home page is where users with the “admin” role will have access. These could be UH Mānoa staff and faculty.
+
+
 * Categories page
   * The categories page is where users can filter and find specific categories to search for items.
 
@@ -51,8 +53,14 @@ Transactions are expected to occur on-campus. Because buyers and sellers are fro
 
 * Items listed page
   * The items listed page is where all listed items in the following category are shown.
+  * This is an example page of when you click on the category "Stationary".
+
+![](photos/shop-stationary.png)
  
- ![](photos/Updated-Your-Listings.png)
+ * Your Listings page
+  * The "Your Listings" page is where all listed items created by the user are shown.
+ 
+![](photos/Updated-Your-Listings.png)
  
 * Create item page
   * The list item page is where the students can post items for sale. Items can be categorized, have a starting price point, and will include the date listed.
@@ -66,25 +74,29 @@ Transactions are expected to occur on-campus. Because buyers and sellers are fro
 
 * Make offer on item page
   * Students are allowed to make offers on specific items, almost like a bid.
+
+![](photos/make-offer.png)
+
 * Notify admin page
   * This page allows users to notify admins and report users in the case of post scams, explicit users, and bad behavior.
-
-![](photos/create-profile.png)
 
 * Create your profile page
    * Once users sign up, they are immediately redirected to this page to create their profile.
 
-![](photos/Your-Profile.png)
+![](photos/create-profile.png)
 
 * View your profile page
    * If users click on the user's email on the Navbar, users can view their profile here.
    * There is also a link to edit their profile from their Profile page.
 
-![](photos/Edit-Profile.png)
+![](photos/Your-Profile.png)
 
 * Edit your profile page
    * Once the link is clicked on to edit their profile, users are redirected to this page.
    * Users may edit their information.
+
+![](photos/Edit-Profile.png)
+
 
 ### Developer Guide:
 
