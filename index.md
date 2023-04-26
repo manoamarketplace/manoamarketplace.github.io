@@ -25,7 +25,7 @@ Transactions are expected to occur on-campus. Because buyers and sellers are fro
 * Students can make offers on items and contact one another
 * Admins can monitor site activity and report inappropriate behavior
 
-### Mockup pages:
+### User Guide:
 * Landing page
     * The landing page is the home page and the first page users will land on when they visit the top-level URL to the website.
 
@@ -52,7 +52,7 @@ Transactions are expected to occur on-campus. Because buyers and sellers are fro
 * Items listed page
   * The items listed page is where all listed items in the following category are shown.
  
- ![](photos/yourlistings.jpg)
+ ![](photos/Updated-Your-Listings.png)
  
 * Create item page
   * The list item page is where the students can post items for sale. Items can be categorized, have a starting price point, and will include the date listed.
@@ -62,12 +62,29 @@ Transactions are expected to occur on-campus. Because buyers and sellers are fro
 * Sellers Directory page
   * This page allows users to look at different sellers and their profile.
 
-![](photos/sellers.jpg)
+![](photos/Updated-List-of-Sellers.png)
 
 * Make offer on item page
   * Students are allowed to make offers on specific items, almost like a bid.
 * Notify admin page
   * This page allows users to notify admins and report users in the case of post scams, explicit users, and bad behavior.
+
+![](photos/create-profile.png)
+
+* Create your profile page
+   * Once users sign up, they are immediately redirected to this page to create their profile.
+
+![](photos/Your-Profile.png)
+
+* View your profile page
+   * If users click on the user's email on the Navbar, users can view their profile here.
+   * There is also a link to edit their profile from their Profile page.
+
+![](photos/Edit-Profile.png)
+
+* Edit your profile page
+   * Once the link is clicked on to edit their profile, users are redirected to this page.
+   * Users may edit their information.
 
 ### Developer Guide:
 
@@ -96,6 +113,13 @@ If all goes well, the application will appear at [http://localhost:3000](http://
 #### Application Design
 
 Manoa Marketplace is based upon [meteor-application-template-react](https://ics-software-engineering.github.io/meteor-application-template-react/) and [meteor-example-form-react](https://ics-software-engineering.github.io/meteor-example-form-react/). Please use the videos and documentation at those sites to better acquaint yourself with the basic application design and form processing in Manoa Marketplace.
+
+### Continuous Integration
+
+[![ci-manoa-marketplace](https://github.com/manoamarketplace/manoamarketplace/actions/workflows/ci.yml/badge.svg)](https://github.com/manoamarketplace/manoamarketplace/actions/workflows/ci.yml/)
+
+Manoa Marketplace has GitHub Actions to automatically run ESLint and TestCafe each time a commit is made to the "main" branch.
+
 
 ### Milestone 1: Mockup Pages and Collections Development
 
