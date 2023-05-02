@@ -132,6 +132,21 @@ Manoa Marketplace is based upon [meteor-application-template-react](https://ics-
 
 Manoa Marketplace has GitHub Actions to automatically run ESLint and TestCafe each time a commit is made to the "main" branch.
 
+### Community Feedback
+
+This page has been tested by members of the UH Manoa community. The following is a summary of their thoughts and feedback on the application:
+
+**Justin** - “The website design is minimalistic and each page is free of distractions. The flow as users browse through the site feels smooth. I would recommend having the ‘reported’ items be temporarily removed from listing pending admin review. There should also be a messaging capability added so that users and sellers alike can get in touch with each other.”
+
+**Gianna** - “The general idea of creating a marketplace is great and definitely helpful. You could alphabetize the majors on the create profile page and add more majors as well. You could create subcategories like in the clothing category you could add women, men, children clothing.”
+
+**Clifford** - “I would use a site like this to sell a lot of my dorm stuff like my mini fridge, so it makes a lot of sense to have something like this. That said I would like to be sure that the listings are monitored and I’m not getting scammed, so I would like to see something that shows that items or users have been verified."
+
+**Mia** - “The graphics are visually pleasing, and the page has a really nice modern vibe to it. I would like to see more on the home page though. I’m a frequent online shopper and I think the ability to scroll and see categories and items right off the bat is really nice from a user's perspective."
+
+**Zech** - “I really like the website for its simplicity and neatness. Makes everything easy to use and I can see a lot of UH students and staff using it. However, I would like to see more user data and perhaps a more secure login, such as a requirement for the password.”
+
+
 
 ### Milestone 1: Mockup Pages and Collections Development
 
