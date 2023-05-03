@@ -35,12 +35,12 @@ Transactions are expected to occur on-campus. Because buyers and sellers are fro
   * The sign in and sign up page is where the students can create an account to search for goods and list goods for sale.
 
 <img src="photos/registration-page.png">
-<img src="photos/sign-in.png">
+<img src="photos/sign-in-page.png">
 
 * User home page
   * The user page is the page where the students will first see once logged in.
 
-<img src="photos/home-page.png">
+<img src="photos/home.png">
 
 * Categories page
   * The categories page is where users can filter and find specific categories to search for items.
@@ -71,12 +71,12 @@ Transactions are expected to occur on-campus. Because buyers and sellers are fro
 * Edit Item page
   * The edit item page allows users to edit their existing listings.
 
-<img src="photos/edit-item.png">
+<img src="photos/edit-item-page.png">
  
 * Create item page
   * The list item page is where the students can post items for sale. Items can be categorized, have a starting price point, and will include the date listed.
 
-<img src="photos/add-item.png">
+<img src="photos/add-item-page.png">
 
 * Sellers Directory page
   * This page allows users to look at different sellers and their profile.
@@ -102,13 +102,13 @@ Transactions are expected to occur on-campus. Because buyers and sellers are fro
    * If users click on the user's email on the Navbar, users can view their profile here.
    * There is also a link to edit their profile from their Profile page.
 
-<img src="photos/profile-page.png">
+<img src="photos/view-profile-page.png">
 
 * Edit your profile page
    * Once the link is clicked on to edit their profile, users are redirected to this page.
    * Users may edit their information.
 
-<img src="photos/edit-profile.png">
+<img src="photos/edit-profile-page.png">
 
 
 ### Developer Guide:
