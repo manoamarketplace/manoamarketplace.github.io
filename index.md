@@ -29,73 +29,80 @@ Transactions are expected to occur on-campus. Because buyers and sellers are fro
 * Landing page
     * The landing page is the home page and the first page users will land on when they visit the top-level URL to the website.
 
-![](photos/landing.jpg)
+<img src="photos/landing.png">
 
 * Sign-in and sign-up page
   * The sign in and sign up page is where the students can create an account to search for goods and list goods for sale.
 
-![](photos/signin.jpg)
-![](photos/signup.jpg)
+<img src="photos/sign-up.png">
+<img src="photos/sign-in.png">
 
 * User home page
   * The user page is the page where the students will first see once logged in.
 
-![](photos/userhome.jpg)
-
-* Admin home page
-  * The admin home page is where users with the “admin” role will have access. These could be UH Mānoa staff and faculty.
-
+<img src="photos/home-page.png">
 
 * Categories page
   * The categories page is where users can filter and find specific categories to search for items.
 
-![](photos/categories.jpg)
+<img src="photos/search-categories.png">
 
 * Items listed page
   * The items listed page is where all listed items in the following category are shown.
   * This is an example page of when you click on the category "Stationary".
 
-![](photos/shop-stationary.png)
+<img src="photos/category-item-listing.png">
+
+* More Info page
+    * Clicking on an item will direct you to a page with more information.
+
+
  
  * Your Listings page
   * The "Your Listings" page is where all listed items created by the user are shown.
- 
-![](photos/Updated-Your-Listings.png)
+
+
+* Owner's More Info page
+  * Similar to the regular More Info page, if a seller looks at their own listing from the "Your Listings" they will get a page that allows them access to edit and delete their listing, as well as see what people are interested in buying.
+
+<img src="photos/user-item.png">
+
+* Edit Item page
+  * The edit item page allows users to edit their existing listings.
+
+<img src="photos/edit-item.png">
  
 * Create item page
   * The list item page is where the students can post items for sale. Items can be categorized, have a starting price point, and will include the date listed.
 
-![](photos/additem.jpg)
+<img src="photos/add-item.png">
 
 * Sellers Directory page
   * This page allows users to look at different sellers and their profile.
 
-![](photos/Updated-List-of-Sellers.png)
-
-* Make offer on item page
-  * Students are allowed to make offers on specific items, almost like a bid.
-
-![](photos/make-offer.png)
+<img src="photos/user-directory-list.png">
 
 * Notify admin page
   * This page allows users to notify admins and report users in the case of post scams, explicit users, and bad behavior.
 
+<img src="photos/admin-notify.png">
+
 * Create your profile page
    * Once users sign up, they are immediately redirected to this page to create their profile.
 
-![](photos/create-profile.png)
+
 
 * View your profile page
    * If users click on the user's email on the Navbar, users can view their profile here.
    * There is also a link to edit their profile from their Profile page.
 
-![](photos/Your-Profile.png)
+<img src="photos/profile-page.png">
 
 * Edit your profile page
    * Once the link is clicked on to edit their profile, users are redirected to this page.
    * Users may edit their information.
 
-![](photos/Edit-Profile.png)
+<img src="photos/edit-profile.png">
 
 
 ### Developer Guide:
@@ -167,5 +174,5 @@ The goal of Milestone 3 is to provide additional functionality so that the overa
 Milestone 3 was managed using [Manoa Marketplace GitHub Project Board M3](https://github.com/orgs/manoamarketplace/projects/6/views/1)
 
 ### Team
-Manoa Marketplace is built by Jazmin Lor, Alyssa Greenwell, Russ Flores, Jing Zheng
+Manoa Marketplace is built by [Jazmin Lor](https://jazminlor.github.io/), [Alyssa Greenwell](https://alyssa-greenwell.github.io/), [Russ Flores](https://selene-flores.github.io/), [Jing Zheng](https://jingtzheng.github.io/)
 
