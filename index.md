@@ -29,12 +29,12 @@ Transactions are expected to occur on-campus. Because buyers and sellers are fro
 * Landing page
     * The landing page is the home page and the first page users will land on when they visit the top-level URL to the website.
 
-<img src="photos/landing.png">
+<img src="photos/landing-page.png">
 
 * Sign-in and sign-up page
   * The sign in and sign up page is where the students can create an account to search for goods and list goods for sale.
 
-<img src="photos/sign-up.png">
+<img src="photos/registration-page.png">
 <img src="photos/sign-in.png">
 
 * User home page
@@ -45,27 +45,28 @@ Transactions are expected to occur on-campus. Because buyers and sellers are fro
 * Categories page
   * The categories page is where users can filter and find specific categories to search for items.
 
-<img src="photos/search-categories.png">
+<img src="photos/categories.png">
 
 * Items listed page
   * The items listed page is where all listed items in the following category are shown.
   * This is an example page of when you click on the category "Stationary".
 
-<img src="photos/category-item-listing.png">
+<img src="photos/list-items.png">
 
 * More Info page
     * Clicking on an item will direct you to a page with more information.
 
-
+<img src="photos/more-info.png">
  
  * Your Listings page
   * The "Your Listings" page is where all listed items created by the user are shown.
 
+<img src="photos/your-listings.png">
 
 * Owner's More Info page
   * Similar to the regular More Info page, if a seller looks at their own listing from the "Your Listings" they will get a page that allows them access to edit and delete their listing, as well as see what people are interested in buying.
 
-<img src="photos/user-item.png">
+<img src="photos/more-info-owner.png">
 
 * Edit Item page
   * The edit item page allows users to edit their existing listings.
@@ -80,17 +81,22 @@ Transactions are expected to occur on-campus. Because buyers and sellers are fro
 * Sellers Directory page
   * This page allows users to look at different sellers and their profile.
 
-<img src="photos/user-directory-list.png">
+<img src="photos/users-directory.png">
 
 * Notify admin page
   * This page allows users to notify admins and report users in the case of post scams, explicit users, and bad behavior.
 
 <img src="photos/admin-notify.png">
 
+* Reported Listings/Users
+  * This page allows admins to see what listings and users have been reported.
+
+<img src="photos/reported-items.png">
+
 * Create your profile page
    * Once users sign up, they are immediately redirected to this page to create their profile.
 
-<img src="photos/add-profile.png">
+<img src="photos/make-profile.png">
 
 * View your profile page
    * If users click on the user's email on the Navbar, users can view their profile here.
