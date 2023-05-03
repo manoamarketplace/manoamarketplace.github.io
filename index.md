@@ -90,7 +90,7 @@ Transactions are expected to occur on-campus. Because buyers and sellers are fro
 * Create your profile page
    * Once users sign up, they are immediately redirected to this page to create their profile.
 
-
+<img src="photos/add-profile.png">
 
 * View your profile page
    * If users click on the user's email on the Navbar, users can view their profile here.
